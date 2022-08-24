@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "workbench.view.alwaysShowHeaderActions": true,
+    "scm.defaultViewMode": "tree",
+    "zenMode.fullScreen": false
+}
